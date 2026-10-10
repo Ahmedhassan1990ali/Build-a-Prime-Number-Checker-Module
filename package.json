@@ -1,0 +1,13 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "Function to check if a number is a prime number or not",
+  "license": "MIT",
+  "author": "Ahmed Hassan",
+  "type": "commonjs",
+  "main": "index.js",
+  "keywords": ["prime"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
